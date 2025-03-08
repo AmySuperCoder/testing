@@ -3,6 +3,14 @@
 ## Description
 Shows Cypress testing for a component and end-to-end testing.
 
+## Table of Contents
+[Installation](#Installation)
+[Usage](#Usage)
+[Acknowledgements](#Acknowledgements)
+[Contact](#Contact)
+[Repository](#Repository)
+[Video](#Video)
+
 ## Installation
 Download the repository and then type "npm install" to install. Type "npm run build", and then you can run the program.
 
@@ -18,7 +26,7 @@ View my work at https://github.com/AmySuperCoder or email me at tribegriffith@gm
 ## Repository
 Download the files for this program at my repository: https://github.com/AmySuperCoder/testing
 
-## View this application
+## Vido
 To view the application in action, watch this video: 
 
 https://drive.google.com/file/d/1uwX0Wtwpyr8bdbcabxUS3vyCaHP5tInV/view
