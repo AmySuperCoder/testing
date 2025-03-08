@@ -29,4 +29,4 @@ Download the files for this program at my repository: https://github.com/AmySupe
 ## Vido
 To view the application in action, watch this video: 
 
-https://drive.google.com/file/d/1uwX0Wtwpyr8bdbcabxUS3vyCaHP5tInV/view
+https://drive.google.com/file/d/1uwX0Wtwpyr8bdbcabxUS3vyCaHP5tInV/view?usp=sharing
